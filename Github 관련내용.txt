@@ -3,5 +3,6 @@
 3. git remote add origin 주소
 4. 확인은 git remote -v
 5. 작업한것 올리기: commit까지 한후 git push origin main
+    1. git add . 2. git commit -m 메시지
 6. github에서 다운받기: git clone 주소(클론은 처음만)
 7. 지속적으로 받기: git pull origin main(cd로 최종 폴더에서 받아야함)
