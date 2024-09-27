@@ -2,7 +2,7 @@
 2. 올릴폴더 git init
 3. git remote add origin 주소
 4. 확인은 git remote -v
-5. 작업한것 올리기: commit까지 한후 git push origin main
-    1. git add . 2. git commit -m 메시지
+5. 작업한것 올리기: commit까지 한후 git push origin main(깃허브에 올리는것)
+    1. git add .(.1개는 현재폴더) 2. git commit -m 메시지(여기까지가 로컬)
 6. github에서 다운받기: git clone 주소(클론은 처음만)
 7. 지속적으로 받기: git pull origin main(cd로 최종 폴더에서 받아야함)
